@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**azza-mzah/azza-mzah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Azza Mzah, a computer science student . I have a strong interest in software development and I am currently studying various programming languages and technologies
+- 🔭 I’m currently studying Computer Science.
+- 🌱 I’m currently learning various programming languages and technologies
+- 👯 I’m looking to collaborate on projects
 
-Here are some ideas to get you started:
+Here are some of the technologies and tools I'm proficient in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Microsoft Power Platform
+- Dynamics 365 CRM
+- Power BI reporting
+- Java
+- C++
+- Angular 
+
+
+
